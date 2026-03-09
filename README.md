@@ -232,9 +232,22 @@ System Programming
 
 ## 🏆 Certifications
 
+
+
+## 🏆 Certifications
+
+| Certificate | Issuer | Earned On | Verification |
+|---|---|---|---|
+| Data Analysis with Python | freeCodeCamp | 2026 | [View Certificate](https://www.freecodecamp.org/certification/rajeev33/data-analysis-with-python-v7) |
+| SQL (Advanced) | HackerRank | 09 Mar, 2026 | [View Certificate](https://www.hackerrank.com/certificates/D069D3ECB6FC) |
+
+---
+
+## 📜 Certificate Gallery
 ### Data Analysis with Python — freeCodeCamp
 [![Data Analysis Certificate](data-analysis-certificate.png)](https://www.freecodecamp.org/certification/rajeev33/data-analysis-with-python-v7)
-
+### HackerRank — SQL (Advanced)
+[![SQL Advanced Certificate](SQL-Certificate.png)](https://www.hackerrank.com/certificates/D069D3ECB6FC)
 
 
 <p align="center">
