@@ -85,9 +85,9 @@ Real-time Control Systems
 
 ---
 
-# ⭐ Featured Projects
+#  Featured Projects
 
-## ⚙️ OS Scheduling Algorithm Simulator
+##  OS Scheduling Algorithm Simulator
 
 Simulation platform for analyzing CPU scheduling algorithms.
 
@@ -230,6 +230,10 @@ System Programming
 
 ---
 
+## 🏆 Certifications
+
+### Data Analysis with Python — freeCodeCamp
+[![Data Analysis Certificate](data-analysis-certificate.png)](https://www.freecodecamp.org/certification/rajeev33/data-analysis-with-python-v7)
 
 
 
