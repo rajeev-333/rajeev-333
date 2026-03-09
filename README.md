@@ -12,7 +12,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 * 🎓 Engineering graduate with strong background in **Computer Science and Electrical Engineering**
 * 💻 Interested in **Systems Programming, Machine Learning, and High Performance Computing**
